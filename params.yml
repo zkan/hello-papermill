@@ -1,3 +1,11 @@
 name: 'zkan'
 x: 99
 y: 1
+x_values:
+  - 0.0
+  - 1.0
+  - 2.0
+  - 3.0
+linear_function:
+  slope: 3.0
+  intercept: 1.0
